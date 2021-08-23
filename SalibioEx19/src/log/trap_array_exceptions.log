@@ -1,0 +1,9 @@
+ERROR | 2021-08-22 10:16:0044  | TrapArray.java | arrayTransact | Array size cannot be negative 
+ERROR | 2021-08-22 10:16:0049  | TrapArray.java | arrayTransact | not an integer, invalid for array size 
+ERROR | 2021-08-22 10:16:0051  | TrapArray.java | arrayTransact | invalid array size 
+ERROR | 2021-08-22 10:17:0001  | TrapArray.java | arrayTransact | invalid element value:[character] 
+ERROR | 2021-08-22 10:17:0002  | TrapArray.java | arrayTransact | invalid element value:[character] 
+ERROR | 2021-08-22 10:17:0003  | TrapArray.java | arrayTransact | invalid element value:[character] 
+ERROR | 2021-08-22 10:17:0016  | TrapArray.java | arrayTransact | bad index 
+ERROR | 2021-08-22 10:17:0024  | TrapArray.java | arrayTransact | bad index 
+ERROR | 2021-08-22 10:17:0027  | TrapArray.java | arrayTransact | Bad Index 

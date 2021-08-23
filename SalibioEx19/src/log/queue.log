@@ -1,0 +1,23 @@
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Execute getCandy method day=3 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Validation: day should be [0,7) 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter While Loop: iterator has next element 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Enter For Loop: rearranging candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit For Loop: printing the arranged candies 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit While Loop: while iterator has no next element 
+2021/08/19 17:48:0045  [ INFO ] collectionLogger - Exit getCandy method without error 
